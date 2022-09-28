@@ -19,4 +19,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=targithu&show_icons=true&locale=en" alt="targithu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=targithu&" alt="targithu" /></p>
