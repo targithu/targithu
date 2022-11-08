@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tarun S Hegde</h1>
 <h3 align="center">NITK'25|Tech Enthusiast</h3>
 
-- 🌱 I’m currently learning **Django,Kotlin,C++,Javascript**
+- 🌱 I’m currently learning **Django,MERN STACK,C++**
 - 👯 I’m looking to collaborate on **Projects which involve web development**
 - 📫 How to reach me **tarun.hegde0907@gmail.com**
 
