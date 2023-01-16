@@ -21,3 +21,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=targithu&show_icons=true&locale=en&layout=compact" alt="targithu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=targithu&show_icons=true&locale=en" alt="targithu" /></p>
+[![@tarun's Holopin badges](https://holopin.me/tarun)](https://holopin.io/@tarun)
