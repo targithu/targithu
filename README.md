@@ -1,28 +1,69 @@
-# 💫 About Me:
-<h1 align="center">Hi 👋, I'm Tarun S Hegde</h1>
-<h3 align="center">NITK'25||Tech Enthusiast</h3><br>🌱 I’m currently learning MERN Stack<br><br>👯 I’m looking to collaborate on Projects which involve web development<br><br>📫 How to reach me tarun.hegde0907@gmail.com<br>
+## Education
 
+- **National Institute of Technology Karnataka, Surathkal** (2021-2025)
+  - Bachelor of Technology in Engineering
+ 
+## Work Experience
 
-## 🌐 Socials:
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tarun-hegde/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tarun-hegde/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/tarunhegde0907" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tarunhegde0907" height="30" width="40" /></a>
-<a href="https://leetcode.com/Tarun_Hegde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/Tarun_Hegde/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/tarunhegde0907" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/tarunhegde0907" height="30" width="40" /></a>
-</p>
+### Software Engineer Intern at [DesDevLab](https://www.linkedin.com/company/desdevlab---sps-techwizards-pvt-ltd/)
+_December 2023 - Present_
 
-## 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=azure-devops&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tarun-hegde&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=tarun-hegde&theme=tokyonight&hide_border=false)<br/>
-# Badges Earned:
-[![An image of @tarun's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tarun)](https://holopin.io/@tarun)
+- Boosted web scraping efficiency on Lonely Planet by **15%** through Celery implementation.
+- Established a seamless connection between location entries and Google Place IDs, enabling enhanced data enrichment through the **Google Places API**.
+- Engineered an **automated data extraction system** using Selenium to mimic user interactions, scrolling through web pages, and extracting pertinent information from search queries.
+- Enabled concurrent processing of Google search results for **Best X in Y** based on the categories specified in the provided Excel sheet.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tarun-hegde&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+### Software Engineer Intern at [DatStek](https://www.linkedin.com/company/datstek/)
+_October 2023 - November 2023_
 
+- Worked on two projects, **7even Sports** using Node.js and second being **Rally** using FastAPI.
+- Built various APIs, used **Postman** to test them and developed an authentication system using **JWT**.
+- Migrated codebase from Node.js to FastAPI in Rally to improve performance by **15%**.
+- Implemented an **email invitation** system in the Rally project and **role-based** access control in both projects.
 
+## Projects
+### [Ember](https://github.com/EmberTechWorks/Ember)
+_December 2023 - Present_
 
+- Elevated engagement by 30% through **app-based gamification**, promoting eco-friendly transportation.
+- Diversified revenue streams, leading to a **25% boost** in overall through [strategic monetization strategies](https://github.com/EmberTechWorks/Ember/blob/main/docs/Idea.pdf).
+- Realized **15% carbon footprint reduction** via **TravelCO2 API** driven eco-incentives and tracking.
+- Continuously improved the application based on [user feedback and surveys](https://docs.google.com/forms/d/e/1FAIpQLSdULAdzWiRRYZH6KibM5INuN-ySGnIk-FpYDxLnyeYiGUH0sw/viewform) for enhanced user experience.
 
+### [PlotaLoom](https://github.com/PlotaLoom/PlotaLoom)
+_December 2023 - Present_
+- Revamped property dealings and cutting scams by **50%** for a secure and efficient [decentralised land marketplace](https://plotaloom-eth.vercel.app/).
+- Enabled **Moralis** wallet login and exclusive **Anon-Aadhar SDK** and **Polygon ID** access for a single user.
+- Transparent tradings through real-time chat privacy using **Push Protocol** and auction-based conflict resolution.
+
+### [Sevak](https://github.com/Sevak-Official/Sevak)
+_December 2022 - January 2023_
+
+- Attained **regional recognition** in the Health track at **Microsoft Imagine Cup Challenge 2022**.
+- Streamlined **physician search** with hospital registration for showcasing doctors.
+- Enabled **role-based** access control, allowing each hospital to access only their doctors.
+- Enhanced user experience with **pagination** and a search feature on the patients' page.
+
+### [Formify](https://github.com/tarun-hegde/Formify)
+_October 2022 - November 2022_
+
+- Developed a web app for user feedback, feedback display, and email notifications.
+- Created a user dashboard with analytics for tracking previous responses, ratings, and user data.
+- Used **Mailtrap** for testing email sending and **SMTP** to send mails.
+
+## Technical Skills
+
+- **Languages**: C++, Python, JavaScript, MySQL
+- **Technologies**: Django, FastAPI, React.js, Next.js, Node.js, Express.js, React-Native, Firebase, Bootstrap, TailwindCSS
+- **Additional**: Data Structures and Algorithms, Object-Oriented Programming, Database Management System, Operating Systems
+
+## Achievements and Volunteering
+
+- Among **15L+** participants, we secured a [Finalist position](https://drive.google.com/file/d/1vlb63nZbHkKoRJuw_OL3gCdskMG18G2V/view?usp=sharing) in the Smart India Hackathon 2022 conducted by the Government of India, where we built [Edge](https://github.com/tarun-hegde/Edge).
+- **Won** the [Hacksquad](https://bit.ly/3FSwasv) competition as part of a team of 5 by contributing to several repositories.
+- Executive Member at the **Google Developer Student Clubs, NITK**.
+- Co-developed the official website for NITK's annual cultural fest [Incident 2023](https://incident2023.netlify.app/) with **9K+ visits**.
+- Co-developed the official website of [180DC NITK](https://180dcnitk.org/) with **2K+ visits**.
+---
+
+Feel free to reach out to me via [email](mailto:tarun.hegde0907@gmail.com) if you have any inquiries or collaboration opportunities.
