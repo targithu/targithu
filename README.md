@@ -5,8 +5,16 @@
  
 ## Work Experience
 
+### Backend Developer at [Bestinhere](https://www.linkedin.com/company/bestinhere/)
+_January 2024 - June 2024_
+
+- Developed Graphql APIs for creating categories, bulk uploading and downloading categories and category tree in XLSX format, integrated with **Amazon S3 Bucket** for storage and retrieval.
+- Implemented a responsive tabbed interface in the admin panel using Relay-Next.js, and utilized **WordTree** to visually display the category hierarchy.
+- Utilized NER (Named Entity Recognition) models to analyze uploaded images, ensuring they are appropriate and relevant to travel.
+- Utilized Hugging Face models to extract location names from YouTube videos and created an interface to display those places in a google map, subsequently validated via Google Places API, resulting in a **10%** increase in efficiency.
+  
 ### Software Engineer Intern at [DesDevLab](https://www.linkedin.com/company/desdevlab---sps-techwizards-pvt-ltd/)
-_December 2023 - Present_
+_December 2023 - January 2024_
 
 - Boosted web scraping efficiency on Lonely Planet by **15%** through Celery implementation.
 - Established a seamless connection between location entries and Google Place IDs, enabling enhanced data enrichment through the **Google Places API**.
@@ -22,6 +30,14 @@ _October 2023 - November 2023_
 - Implemented an **email invitation** system in the Rally project and **role-based** access control in both projects.
 
 ## Projects
+### [AlignShare](https://github.com/AlignShare/AlignShareOfficial)
+_May 2024 - Present_
+
+- Integrated **News API** for real-time company updates, boosting information flow by **10%**.
+- Leveraged the **Stable Diffusion** model via Hugging Face Inference APIs to generate posters from updates.
+- Deployed frontend on **Vercel** and this project got shortlisted in the top 40 teams of [AI Unite Hackathon](https://hack2skill.com/hack/aiunitehackathon/).
+
+
 ### [Ember](https://github.com/EmberTechWorks/Ember)
 _December 2023 - Present_
 
